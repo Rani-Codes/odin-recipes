@@ -1,0 +1,14 @@
+* {
+    background-color: #ffdb98;
+}
+
+.title {
+    color: rgb(68, 68, 68);
+    text-align: center;
+}
+
+.food {
+    height: auto;
+    width: 400px;
+    
+}
